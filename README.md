@@ -37,26 +37,6 @@ Movement: Navigate between rooms using the move command.
 Combat: Engage in turn-based combat using the attack command.
 Collect Items: Use the pickup command to collect items in the room.
 Save and Load: Save progress with save and reload it later with load.
-Game Screenshots
-Room Description:
-
-yaml
-Room 2: A goblin blocks your path!
-An enemy is here: Goblin!
-Combat:
-
-vbnet
-Combat started against Goblin!
-Goblin's Health: 50 | Your Health: 100
-Press 5 within 2 seconds to attack!
-Inventory:
-
-markdown
-Your Inventory:
- - Sword
- - Key
-Project Structure
-The project is organized as follows:
 
 bash
 /project
