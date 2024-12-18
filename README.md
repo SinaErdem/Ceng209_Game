@@ -92,11 +92,6 @@ Platform: Windows/Linux/MacOS
 How to Contribute
 Contributions are welcome! Feel free to submit a pull request or open an issue to report bugs or suggest improvements.
 
-License
-This project is licensed under the MIT License.
-
-This file can be saved as README.md and placed in the root directory of your project. It will serve as a guide for users and developers to understand, build, and play the game. If you need further adjustments or additional content, let me know! 🚀
-
 
 
 
